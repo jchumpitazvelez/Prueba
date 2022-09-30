@@ -7,6 +7,7 @@ package com.mycompany.libroautor;
 /**
  *
  * @author jorge
+ * 
  */
 public class Autor {
     private String nombre;
